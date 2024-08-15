@@ -1,0 +1,1 @@
+co_deformable_detr_r50_1x_coco.pth filter=lfs diff=lfs merge=lfs -text
